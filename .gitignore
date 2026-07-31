@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# Entornos virtuales
+.venv/
+venv/
+env/
+# LaTeX (basura de compilación)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+# SO
+.DS_Store
+Thumbs.db
